@@ -1,2 +1,1 @@
 # SeminarGitGitHub
-# SeminarGitGitHub
